@@ -2,7 +2,7 @@
 
 
 ## 🛠 Interests
-- **Data analysis**
+- **Data Analysis**
 - **Data Visualization**
 - **Nanotechnology and Engineering**
 ---
