@@ -9,6 +9,7 @@
 
 ## 🔭 Professional Journey
 - **Research Intern** - Narrow bandgap solar cell fabrication and characterization at **TNO** (2024)
+- **Process Engineer** - Site Equipment Area Owner of Chameleon packing line at **PG** (2023)
 - **M.Sc in Nanotechnology** - University of Twente, NL (2023-2025)
 ---
 ## If you like the automated XRD data analysis tool, you can:
