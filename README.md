@@ -12,7 +12,7 @@
 - **M.Sc in Nanotechnology** - University of Twente, NL (2023-2025)
 ---
 ## If you like the automated XRD data analysis tool, you can:
-[*Buy me a coffee!**](https://buymeacoffee.com/josue.hernandez)
+[**Buy me a coffee!**](https://buymeacoffee.com/josue.hernandez)
 ---
 ---
 ## 📫 Connect with Me
