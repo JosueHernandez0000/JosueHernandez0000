@@ -4,6 +4,7 @@
 ## 🛠 Interests
 - **Data Analysis**
 - **Data Visualization**
+- **Data Science (Machine Learning)**
 - **Nanotechnology and Engineering**
 ---
 
